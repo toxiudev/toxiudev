@@ -1,4 +1,5 @@
-Hi there! 👋/n
+Hi there! 👋
+
 I am amateur Java and Bukkit API developer.
 
 ```
