@@ -7,4 +7,5 @@ Discord: toxiu#1774
 Twitter: @realtoxiu
 ```
 
-​![toxiu's github stats](https://github-readme-stats.vercel.app/api​?username=toxiu&show_icons=true&theme=radical​)
+### Tools:
+[<img allign="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" />
