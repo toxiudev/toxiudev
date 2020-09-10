@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I am amateur Java and Bukkit API developer.
+I am amateur Java and Kotlin developer.
 
 ```
 Discord: toxiu#0420
